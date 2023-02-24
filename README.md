@@ -1,3 +1,3 @@
 # User Pictures
 
-All macOS user picture circular thumbnails
+All macOS user picture circular images
